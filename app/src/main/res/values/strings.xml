@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wardrobe AI</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_wardrobe">Wardrobe</string>
+    <string name="tab_outfits">Outfits</string>
+    <string name="tab_ai">AI</string>
+    <string name="tab_planner">Planner</string>
+    <string name="tab_profile">Profile</string>
+    <string name="ai_chat_title">Clothing AI Concierge</string>
+    <string name="ai_chat_subtitle">Ask anything about outfits, fabric care, color matching &amp; your closet pieces</string>
+    <string name="ai_chat_input_placeholder">Ask about outfits, fabrics, colors or your clothes...</string>
+    <string name="ai_chat_send">Send clothing question</string>
+    <string name="ai_chat_reset">Reset conversation</string>
+    <string name="ai_chat_attach_garment">Tag a closet piece</string>
+    <string name="ai_chat_closet_synced">%1$d Closet Pieces Ready</string>
+    <string name="recaptcha_site_key">wardrobe_ai_recaptcha_enterprise_key</string>
+    <string name="selection_instruction_prompt">Brush over or draw a circle around the clothing item, then tap Extract Clothing</string>
+    <string name="extract_clothing_cta">Extract Clothing</string>
+</resources>
